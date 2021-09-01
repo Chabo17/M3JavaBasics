@@ -9,7 +9,7 @@ public class RPC {
         Scanner Scan = new Scanner(System.in);
         Random Ran = new Random();
         do{
-            int pc =0, cc=0, PW=0,Ties=0, CW=0;
+            int pc =0, cc=0, PW=0,Ties=0, CW=0;//PW = player wins CW = computer wins
         while(num ==0){
             System.out.println("How many rounds do you wish to play?(1-10): ");
             num = Scan.nextInt();
