@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Random;
 
-public class RPC {
+public class RPS {
 
     public static void main(String[] args) {
         
